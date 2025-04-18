@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**AbdoMostfa2/AbdoMostfa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdelrahman Mostafa, a Computer Science and Engineering student with a passion for competitive programming, contributing to open source, and building cool projects.
 
-Here are some ideas to get you started:
+## 🧪 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**Gitlet**](https://github.com/AbdoMostfa2/Gitlet): A Java-based version control system
+- [**LibraTrack**](https://github.com/AbdoMostfa2/LibraTrack): Library management system with role-based access
+- [**2048 Game**](https://github.com/AbdoMostfa2/2048Game): Classic puzzle game
+
+## 📊 Open Source Contributions
+
+| 📂 Repository | 💡 Contribution | 📝 Type | 🔗 PR | 📊 Status |
+| --- | --- | --- | --- | --- |
+| [JabRef](https://github.com/JabRef/jabref) | Fix inconsistent search results for date-related queries | Bug | [#12724](https://github.com/JabRef/jabref/pull/12724) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Enable drag-and-drop of PDFs into groups | Feature | [#12626](https://github.com/JabRef/jabref/pull/12626) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Fix "Reveal in file explorer" option | Bug | [#12950](https://github.com/JabRef/jabref/pull/12950) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Clean up JabRef resources | Task | [#12665](https://github.com/JabRef/jabref/pull/12665) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Fix incorrect deletion notification when canceling entry deletion | Bug | [#12646](https://github.com/JabRef/jabref/pull/12646) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+
+<!-- Add more rows as you contribute -->
+
+## 🔗 Connect with Me
+
+- 📧 Email: abdelrahman2772004@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/abdelrahman-mostafa-058636263)
